@@ -1,7 +1,7 @@
 Hi 👋 My name is Rafael Guzman
 ==============================
 
-Full Stack Web Developer under construction
+Full Stack Software Developer
 -------------------------------------------
 
 Electronic engineer, starting in the world of web development, music lover.
