@@ -4,7 +4,7 @@ Hi 👋 My name is Rafael Guzman
 Full Stack Software Developer
 -------------------------------------------
 
-Electronic engineer || Full Stack Sofware Developer | 🎸 music lover.
+Electronic engineer || Full Stack Sofware Developer || 🎸 music lover.
 
 * 🌍  I'm based in Falcon - Venezuela
 * ✉️  You can contact me at [rega1237@gmail.com](mailto:rega1237@gmail.com)
